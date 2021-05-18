@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Books
+title: WEBSITES
 nav-menu: true
 ---
 
@@ -11,7 +11,7 @@ nav-menu: true
 <section id="one">
 	<div class="inner">
 		<header class="major">
-			<h1>Books</h1>
+			<h1>WEBSITES</h1>
 		</header>
 
 <!-- Content -->
