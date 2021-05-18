@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Bookbinding
+title: Bookbinding Studio
 description: Vórtice Bookbinding
 image: 
 ---
