@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Online Publications
+title: Online Publication
 nav-menu: true
 ---
 
