@@ -11,11 +11,11 @@ nav-menu: true
 <section id="one">
 	<div class="inner">
 		<header class="major">
-			<h1>Online Publications</h1>
+			<h1></h1>
 		</header>
 
 <!-- Content -->
-<h1 id="content">Online publication</h1>
+<h1 id="content"></h1>
 <p></p>
 <!--<div class="row">
 	<div class="6u 12u$(small)">
