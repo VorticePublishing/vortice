@@ -2,7 +2,7 @@
 layout: post
 title: See in Sicht
 description: 
-image: 
+image: assets/images/see-in-sicht-banner.jpg
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis dapibus rutrum facilisis. 
