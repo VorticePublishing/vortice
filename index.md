@@ -1,7 +1,7 @@
 ---
 layout: home
 title: Home
-landing-title: 'Vórtice'
+landing-title: 'Web Development'
 description: null
 image: null
 author: null
