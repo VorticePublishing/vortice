@@ -1,6 +1,6 @@
 ---
 layout: page
-title: WEBSITES
+title: Websites
 nav-menu: true
 ---
 
