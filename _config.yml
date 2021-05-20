@@ -1,16 +1,16 @@
 # site settings
 title: #Vórtice
 subtitle: 
-email: info@vorticepublishing.com
+email: INFO@VORTICEPUBLISHING.COM
 description: Online Publishing
 baseurl: #"/vortice" # the subpath of your site, e.g. /blog
 url: https://vorticepublishing.com
 author: #Vórtice
 street_address: 
-city: Lisboa
+city: LISBOA
 state: 
 zip_code:
-country: Berlin
+country: BERLIN
 phone: +49 157 3326 2769
 
 # homepage tiles
