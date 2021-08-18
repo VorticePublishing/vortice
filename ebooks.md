@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Online Publication
+title: Electronic Books
 nav-menu: true
 ---
 
@@ -11,7 +11,7 @@ nav-menu: true
 <section id="one">
 	<div class="inner">
 		<header class="major">
-			<h1>Online Publication</h1>
+			<h1>Electronic Books</h1>
 		</header>
 
 <!-- Content -->
