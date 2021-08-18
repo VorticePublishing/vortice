@@ -1,7 +1,7 @@
 ---
 layout: home
 title: Home
-landing-title: 'Web Development'
+landing-title: 'Publishing'
 description: null
 image: null
 author: null
