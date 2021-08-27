@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Logos Editions
+title: Handbound Editions
 nav-menu: true
 ---
 
@@ -11,7 +11,7 @@ nav-menu: true
 <section id="one">
 	<div class="inner">
 		<header class="major">
-			<h1>Logos Editions</h1>
+			<h1>Handbound Editions</h1>
 		</header>
 
 <!-- Content -->
