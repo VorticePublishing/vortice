@@ -11,12 +11,12 @@ nav-menu: true
 <section id="one">
 	<div class="inner">
 		<header class="major">
-			<h1>Handbound Editions</h1>
+			<h1><a href="https://logoseditions.com/" target="_blank">Handbound Editions</a></h1>
 		</header>
 
 <!-- Content -->
 <h1 id="content"></h1>
-<h2><a href="https://logoseditions.com/" target="_blank">logoseditions.com</a></h2>
+<h1><a href="https://logoseditions.com/" target="_blank">logoseditions.com</a></h1>
 <!--<div class="row">
 	<div class="6u 12u$(small)">
 		<h3></h3>
