@@ -16,7 +16,7 @@ nav-menu: true
 
 <!-- Content -->
 <h1 id="content"></h1>
-<p></p>
+<p><a href="https://vorticelibrary.net/" target="_blank">vorticelibrary.net</a></p>
 <!--<div class="row">
 	<div class="6u 12u$(small)">
 		<h3></h3>
