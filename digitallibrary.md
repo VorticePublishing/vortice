@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Digital Library
-nav-menu: true
+nav-menu: false
 ---
 
 <!-- Main -->
