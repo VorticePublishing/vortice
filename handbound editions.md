@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Handbound Editions
-nav-menu: true
+nav-menu: false
 ---
 
 <!-- Main -->
