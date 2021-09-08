@@ -11,12 +11,12 @@ nav-menu: true
 <section id="one">
 	<div class="inner">
 		<header class="major">
-			<h1><a href="https://vorticebooks.com/" target="_blank">Handbound Leather Books</a></h1>
+			<h1><a href="" target="_blank">Handbound Leather Books</a></h1>
 		</header>
 
 <!-- Content -->
 <h1 id="content"></h1>
-<h1><a href="https://vorticebooks.com/" target="_blank">vorticebooks.com</a></h1>
+<h1><a href="" target="_blank"></a></h1>
 <!--<div class="row">
 	<div class="6u 12u$(small)">
 		<h3></h3>
